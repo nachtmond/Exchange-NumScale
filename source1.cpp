@@ -31,7 +31,8 @@ do
 
 			if(xn!=0 && xm==0)
 			{
-				cout<<10;
+				cout<<0;
+				xn=xn+1;
 			}
 			else if(xm<=10)
 			{
@@ -56,7 +57,7 @@ do
 
 		if(xn!=0 && xm==0)
 		{
-			cout<<10;
+			cout<<0<<endl<<1;
 		}
 		else if(xm<=10)
 		{
